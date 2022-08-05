@@ -100,6 +100,13 @@
     transition: all 0.3s ease;
 }
 
+
+/* Tech css  */
+
+.card-container{
+    margin:50px;
+}
+
 @media screen and (max-width: 960px){
     .navbar__container{
         display: flex;
@@ -168,4 +175,8 @@
         justify-content: center;
     }
 }
+
+
+
+
 

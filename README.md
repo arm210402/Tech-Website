@@ -3,4 +3,4 @@
 Just creating a simple HTML CSS JS tech website for template 
 
 
-Update till 3rd August
+Update till 4rd August work in progress
